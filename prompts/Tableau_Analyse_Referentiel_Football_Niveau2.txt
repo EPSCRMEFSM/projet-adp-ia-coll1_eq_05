@@ -1,0 +1,43 @@
+TABLEAU D’ANALYSE DU RÉFÉRENTIEL – FOOTBALL NIVEAU 2
+
+  ---------------------------------------------------------------------------------------------------
+  Critère (intitulé exact +    Indicateurs          Degré A          Degré B         Degré C
+  points)                      observables                                           
+  ---------------------------- -------------------- ---------------- --------------- ----------------
+  Efficacité collective dans   Progression du       Jeu direct et en Jeu simple      Jeu assurant la
+  le gain du match (8 pts)     ballon ;             réaction / Jeu   assurant la     progression du
+                               Conservation du      simple lié à la  progression du  ballon par une
+                               ballon ; Rapport de  progression du   ballon par une  continuité
+                               force ; Résultat du  ballon vers le   continuité      d’actions
+                               match                but adverse /    d’actions /     variées /
+                                                    0 - 2,5          Progression et  Attaque
+                                                                     conservation de intentionnelle
+                                                                     la balle        de la cible en
+                                                                     permettant des  s’adaptant
+                                                                     tirs en         constamment et
+                                                                     situation       rapidement au
+                                                                     favorable / 3 - rapport de force
+                                                                     4,5             / 5 - 6
+
+  Efficacité individuelle dans Contrôle de balle ;  Joueur           Joueur          Joueur assurant
+  l’organisation collective (8 Conduite de balle ;  intermittent et  permettant la   la continuité du
+  pts)                         Choix de jeu ;       peu collectif /  continuité des  jeu par des
+                               Passe/tir ;          0 - 3,5          actions / 4 - 6 actions variées
+                               Participation                                         / 6,5 - 8
+                               collective                                            
+
+  Efficacité dans le rôle      Recueil de données ; Rôles            Rôles assumés / Rôles assurés /
+  d’arbitre et d’observateur   Prise de décision ;  insuffisamment   1 - 1,5         1,5 - 2
+  (2 pts)                      Application des      assurés / 0 - 1                  
+                               règles ; Tenue du                                     
+                               rôle                                                  
+
+  Maîtrise des connaissances   Connaissance des     Connaissances    Connaissances   Maîtrise
+  conceptuelles du jeu (2 pts) règles de jeu ;      insuffisantes /  partielles /    satisfaisante /
+                               Dimensions et zones  Ne comprend pas  Comprend        Comprend et
+                               du terrain ;         les principes de certains        mobilise les
+                               Principes tactiques  base du jeu /    principes avec  principes
+                               ; Explication d’une  0 - 1            erreurs / 1 -   essentiels /
+                               règle ; Placement                     1,5             1,5 - 2
+                               correct                                               
+  ---------------------------------------------------------------------------------------------------
