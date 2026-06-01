@@ -1,0 +1,612 @@
+
+  ══════════════════════════════════════════════════════════════
+  RESSOURCES DIDACTIQUES — FOOTBALL — EN-FOO
+  ADP 2026 — CRMEF Inezgane — Section EPS — BOUARGANE
+  Ressource d'entrée pour le prompt 1bis-A
+  ══════════════════════════════════════════════════════════════
+
+  SECTION 1 — IDENTITÉ ET NIVEAU
+  ────────────────────────────────
+  APS                            : Football
+  Code projet                    : EN-FOO
+  Volume cycle                   : non disponible (non renseigné dans les sorties TD1)
+  Niveau scolaire (arrière-plan) : Collégiens 3e (DNB) — population en première
+                                   expérience de jeu organisé
+  Conduites observées            : Résumé depuis sorties P1/P2 (grille DNB N2 appliquée)
+                                   Degré A dominant — jeu direct et en réaction,
+                                   joueur intermittent peu collectif, rôles sociaux
+                                   insuffisamment assurés.
+                                   Degré B partiel — quelques conservations de balle,
+                                   tirs en situation favorable, offre partielle de passe.
+                                   Degré C absent ou rare chez la majorité.
+  Niveau de contenu identifié    : 2
+                                   (conduites observées correspondent à Eduscol N1 ;
+                                   cible du cycle = progresser vers N2)
+  Écart stade/conduites          : NON
+                                   (conduites de 3e / débutants cohérentes avec N1
+                                   Eduscol — pas de décalage notable signalé dans P1/P2)
+  Signal didactique              : Néant — pas d'écart stade/conduites détecté
+  PDF collège lu                 : pages 39-40 (Football N1 et N2)
+  PDF lycée lu                   : N/A (niveau de contenu 2 — lycée non requis)
+  Source données TD1             : mémoire de conversation
+                                   Sortie P1 — Analyse_Ref_Football_Equipe05_ADP2026_P1
+                                   Sortie P2 — Grille_C1C2_Football_Equipe05_ADP2026_V2
+                                   Sortie P2-BIS — Audit_Grille_Football_Equipe05_ADP2026
+                                   Sortie P3 — Codes_Football_Equipe05_ADP2026
+
+
+  SECTION 2 — CORRESPONDANCE EDUSCOL ←→ GRILLE
+  ───────────────────────────────────────────────
+  [MODE 1 — Depuis PDF joints pages 39-40 et grille en mémoire — Sortie P2 et P3]
+
+  Correspondance appliquée : Niveau de contenu 2
+    Eduscol N1 ←→ Degrés A et B de la grille
+    Eduscol N2 ←→ Degré C de la grille (cible du cycle)
+    Cible du cycle : progresser de N1 vers N2
+
+  -------------------------------------------------------
+  Eduscol N1 ←→ Degré A de la grille (maîtrise insuffisante)
+  -------------------------------------------------------
+  Capacités extraites du PDF Football N1 — colonne Capacités :
+    N1-1 · S'informer avant d'agir : se situer sur le terrain, percevoir les
+           partenaires (PB, NPB disponibles, à distance de passe), les adversaires,
+           les espaces libres et la cible
+    N1-2 · Se reconnaître attaquant ou défenseur et réagir rapidement au
+           changement de statut
+    N1-3 · Gérer son effort pour réaliser plusieurs matchs de 5 minutes sans
+           perte d'efficacité
+    N1-4 (PB) · Identifier sa position par rapport à la position de l'adversaire
+           direct, au couloir de jeu direct et sa distance avec le but pour décider
+           de progresser balle au pied, de passer à un mieux placé, d'effectuer un
+           tir cadré
+    N1-5 (PB) · Coordonner des actions de contrôle, de conduite de ballon, de
+           passe et de tir
+    N1-6 (PB) · Réaliser des équilibres unipodaux par des transferts d'appuis
+           rapides, des dissociations d'actions pour : contrôler, conduire, dribbler,
+           passer, tirer
+    N1-7 (NPB) · S'écarter et se démarquer à distance de passe en appui visible
+           ou sur le côté du porteur de balle
+    N1-8 (NPB) · Se placer sur la trajectoire du ballon afin de le contrôler
+    N1-9 (NPB) · Rompre l'alignement porteur – défenseur – non porteur
+    N1-10 (NPB) · Enchaîner un déplacement vers l'avant après un échange réussi
+    N1-11 (DF) · Identifier les pertes de balle de l'équipe et réagir en fonction
+           de sa position sur le terrain
+    N1-12 (DF) · Contrôler son engagement tout en cherchant à gêner la progression
+           adverse du ballon en se plaçant entre son but et le PB
+    N1-13 (DF) · Intercepter la transmission du ballon en se positionnant sur les
+           lignes de passes adverses
+    N1-14 (OBS) · Relever des résultats d'actions fiables liés aux pertes de balle
+           et conditions de tir
+    N1-15 (OBS) · Evaluer de façon chiffrée l'efficacité d'une équipe en
+           établissant des rapports entre les données recueillies
+    N1-16 (OBS) · Communiquer les résultats des observations pour aider à la
+           formalisation d'un projet de jeu simple en attaque
+
+  Conduites grille correspondantes — Degré A (maîtrise insuffisante) :
+    C1-A : Jeu direct et en réaction — Botte directement sans conserver,
+           pas de circulation collective, chaque joueur joue pour lui
+    C2-A PB : Joueur intermittent et peu collectif — Garde trop longtemps le
+           ballon, pertes fréquentes, n'offre pas de solution de passe
+    C2-A NP : Joueur peu collectif — Pas de démarquage, reste statique sans
+           ballon
+    C2-A DF : Joueur intermittent — Ne se replace pas, laisse progresser
+           l'adversaire
+    C3-A : Rôles insuffisamment assurés — Hésite à arbitrer, fiche vide ou
+           incomplète
+  Codes grille : PB− · NP− · DF− · JD · DI · GE0 · RS−
+
+  -------------------------------------------------------
+  Eduscol N1 ←→ Degré B de la grille (maîtrise partielle)
+  -------------------------------------------------------
+  Capacités extraites du PDF Football N1 (suite — niveau supérieur du N1) :
+    Les mêmes capacités N1 listées ci-dessus, mais en construction active
+    (l'élève commence à les mobiliser en jeu sans les stabiliser encore)
+    Accent sur :
+    N1-4 · Décision PB en cours de construction
+    N1-7 · Démarquage partiel du NPB
+    N1-12 · Replacement défensif amorcé
+
+  Conduites grille correspondantes — Degré B (maîtrise partielle) :
+    C1-B : Jeu simple assurant la progression du ballon par une continuité
+           d'actions — Conservation balle, tirs en situation favorable,
+           rapport de force parfois exploité
+    C2-B PB : Joueur permettant la continuité — Conduit vers l'avant, tire
+           en situation favorable, offre une solution de passe
+    C2-B NP : Offre une solution de passe — Se déplace, propose un appel
+    C2-B DF : Permettant la continuité défensive — Freine la progression,
+           récupère parfois le ballon
+    C3-B : Rôles assumés — Arbitre avec aide, données globales fiables
+  Codes grille : PB~ · NP~ · DF~ · JR · DM · GE1 · RS~
+
+  -------------------------------------------------------
+  Eduscol N2 ←→ Degré C de la grille (cible du cycle — maîtrise confirmée)
+  -------------------------------------------------------
+  Capacités extraites du PDF Football N2 — colonne Capacités :
+    N2-1 · Identifier son placement en défense comme en attaque
+    N2-2 · Elaborer un projet d'organisation collective simple lié à
+           l'efficacité offensive et défensive à partir des observations transmises
+    N2-3 · Coordonner ses actions avec celles de ses partenaires
+    N2-4 · Gérer son effort pour enchaîner plusieurs matchs de 2 fois 8 à
+           12 minutes
+    N2-5 (PB) · Choisir par rapport à sa position sur le terrain et en fonction
+           du rapport d'opposition, de réaliser un contrôle orienté pour se
+           déplacer rapidement vers l'avant en conduisant le ballon, se libérer
+           d'un adversaire, enchaîner une frappe ou un duel face au gardien de
+           but pour marquer
+    N2-6 (PB) · Jouer en appui court ou plus long au sol, enchaîner des actions
+           de passe et de déplacement pour donner et recevoir le ballon en
+           mouvement
+    N2-7 (NPB) · Enchaîner des actions de placement, de déplacement et de
+           replacement
+    N2-8 (NPB) · S'écarter du PB et s'orienter pour assurer la continuité du jeu
+    N2-9 (NPB) · Solliciter le ballon entre les défenseurs dans le sens du but
+           attaqué (appel profond)
+    N2-10 (NPB) · Décrocher d'une position dos au but attaqué (appui au porteur
+           de balle)
+    N2-11 (DF) · Se placer et se replacer pour se répartir les rôles entre
+           partenaires
+    N2-12 (DF) · Agir sur le PB : le presser, le harceler pour tenter de
+           récupérer le ballon
+    N2-13 (DF) · Réaliser un recul-frein pour ralentir la progression adverse
+    N2-14 (DF) · Orienter le porteur du ballon afin de l'isoler
+    N2-15 (DF) · Dissuader les passes et jaillir pour intercepter le ballon
+    N2-16 (CO-ARB) · Arbitrer à plusieurs en se répartissant les rôles
+    N2-17 (CO-ARB) · Se déplacer en coordination avec les joueurs et son ou ses
+           co-arbitres
+    N2-18 (CO-ARB) · Effectuer le geste correspondant à la faute signalée en
+           organisant la réparation
+    N2-19 (CO-ARB) · Connaître le score à tout moment de la rencontre
+    N2-20 (OBS) · Repérer une situation favorable et son exploitation
+    N2-21 (OBS) · Rendre compte de l'efficacité des actions de l'équipe et des
+           joueurs observés
+
+  Conduites grille correspondantes — Degré C (maîtrise confirmée) :
+    C1-C : Jeu assurant la progression du ballon par une continuité d'actions
+           variées — Combinaisons variées, attaque intentionnelle adaptée au
+           rapport de force
+    C2-C PB : Joueur assurant des actions variées — Varie les frappes, décide
+           tir ou passe selon défenseur, se démarque activement, crée des espaces
+    C2-C NP : Continuité du jeu par actions variées — Crée des espaces, décalage
+           intentionnel pour partenaires
+    C2-C DF : Actions défensives variées — Pressing adapté, placement selon le
+           rapport de force
+    C3-C : Rôles assurés — Arbitre seul, données différenciées exploitables
+  Codes grille : PB+ · NP+ · DF+ · JP · DO · GE2 · RS+
+
+  [ENRICHISSEMENT — source externe]
+  Complément sur la correspondance référentiel/conduites en Football :
+  Source  : non disponible — aucune source certifiée indépendante identifiable
+            pour ce croisement spécifique Football DNB / Eduscol collège
+  URL     : non disponible
+  Apport  : néant
+  Statut  : à valider par l'équipe avant intégration
+  [FIN ENRICHISSEMENT]
+
+
+  SECTION 3 — ANALYSE DES CAPACITÉS PAR NIVEAU
+  ───────────────────────────────────────────────
+  [MODE 1 — Depuis PDF joints pages 39-40]
+
+  CAPACITÉS NIVEAU 1 — 16 capacités extraites (dont rôles sociaux)
+  ─────────────────────────────────────────────────────────────────
+
+  N1-1 · S'informer avant d'agir : se situer sur le terrain, percevoir les partenaires
+         (PB, NPB disponibles, à distance de passe), les adversaires, les espaces
+         libres et la cible
+    Dimension    : décisionnelle — lecture du jeu avant l'action
+    Lien grille  : degré A → B · codes PB−/PB~ · conduite « joueur intermittent
+                   qui ne fait pas toujours les bons choix »
+    Statut       : absente chez majorité (conduite A dominante en P1)
+    Prérequis de : N2-5 · N2-6 · N2-7 · N2-8 (toutes les capacités N2 qui
+                   supposent une lecture situationnelle)
+
+  N1-2 · Se reconnaître attaquant ou défenseur et réagir rapidement au changement
+         de statut
+    Dimension    : tactique — transition attaque/défense
+    Lien grille  : degré A → B · codes DI/DM et JD/JR · conduite « jeu direct
+                   et en réaction »
+    Statut       : en construction (transition lente signalée implicitement en P1)
+    Prérequis de : N2-1 · N2-11
+
+  N1-3 · Gérer son effort pour réaliser plusieurs matchs de 5 minutes sans perte
+         d'efficacité
+    Dimension    : autre (physique/gestion de l'effort)
+    Lien grille  : degré A · code PB− · conduite « joueur intermittent »
+    Statut       : en construction
+    Prérequis de : N2-4
+
+  N1-4 (PB) · Identifier sa position par rapport à la position de l'adversaire
+         direct, au couloir de jeu direct et sa distance avec le but pour décider
+         de progresser balle au pied, de passer à un mieux placé, d'effectuer un
+         tir cadré
+    Dimension    : décisionnelle — choix d'action du PB
+    Lien grille  : degré A → B · codes PB−/PB~ · conduite « ne fait pas toujours
+                   les bons choix / passe ou tire selon la situation »
+    Statut       : absente chez majorité au niveau A · en construction vers B
+    Prérequis de : N2-5
+
+  N1-5 (PB) · Coordonner des actions de contrôle, de conduite de ballon, de passe
+         et de tir
+    Dimension    : technique — enchaînement gestuel
+    Lien grille  : degré A → B · codes PB−/PB~ · conduite « contrôles et conduites
+                   assurant progression vers l'avant »
+    Statut       : acquise partiellement (conduite B partielle signalée en P1)
+    Prérequis de : N2-5 · N2-6
+
+  N1-6 (PB) · Réaliser des équilibres unipodaux par des transferts d'appuis rapides,
+         des dissociations d'actions pour : contrôler, conduire, dribbler, passer, tirer
+    Dimension    : technique — motricité spécifique football
+    Lien grille  : degré A → B · code PB− · conduite « pertes de balle fréquentes »
+    Statut       : absente chez majorité
+    Prérequis de : N2-5
+
+  N1-7 (NPB) · S'écarter et se démarquer à distance de passe en appui visible ou
+         sur le côté du porteur de balle
+    Dimension    : tactique — démarquage
+    Lien grille  : degré A → B · codes NP−/NP~ · conduite « pas de démarquage,
+                   reste statique / se déplace, propose un appel »
+    Statut       : absente chez majorité (conduite NP− dominante en P3)
+    Prérequis de : N2-7 · N2-8 · N2-9
+
+  N1-8 (NPB) · Se placer sur la trajectoire du ballon afin de le contrôler
+    Dimension    : technique — réception
+    Lien grille  : degré A → B · code NP− → NP~
+    Statut       : en construction
+    Prérequis de : N2-7
+
+  N1-9 (NPB) · Rompre l'alignement porteur – défenseur – non porteur
+    Dimension    : tactique — création d'espace
+    Lien grille  : degré B → C · code NP~ → NP+ · conduite « décalage intentionnel
+                   pour partenaires »
+    Statut       : absente chez majorité
+    Prérequis de : N2-9 · N2-10
+
+  N1-10 (NPB) · Enchaîner un déplacement vers l'avant après un échange réussi
+    Dimension    : tactique — continuité offensive
+    Lien grille  : degré B · code NP~ · conduite « se déplace, propose un appel »
+    Statut       : en construction
+    Prérequis de : N2-7 · N2-8
+
+  N1-11 (DF) · Identifier les pertes de balle de l'équipe et réagir en fonction de
+         sa position sur le terrain
+    Dimension    : décisionnelle — transition défensive
+    Lien grille  : degré A → B · codes DF−/DF~ · conduite « ne se replace pas /
+                   freine la progression »
+    Statut       : absente chez majorité
+    Prérequis de : N2-1 · N2-11
+
+  N1-12 (DF) · Contrôler son engagement tout en cherchant à gêner la progression
+         adverse du ballon en se plaçant entre son but et le PB
+    Dimension    : tactique — replacement défensif
+    Lien grille  : degré A → B · codes DF−/DF~ · conduite « laisse progresser
+                   l'adversaire / freine la progression »
+    Statut       : en construction
+    Prérequis de : N2-12 · N2-13 · N2-14
+
+  N1-13 (DF) · Intercepter la transmission du ballon en se positionnant sur les
+         lignes de passes adverses
+    Dimension    : tactique — interception
+    Lien grille  : degré B → C · codes DF~ → DF+ · conduite « pressing adapté »
+    Statut       : absente chez majorité
+    Prérequis de : N2-15
+
+  N1-14 (OBS) · Relever des résultats d'actions fiables liés aux pertes de balle
+         et conditions de tir
+    Dimension    : autre (rôles sociaux — observation)
+    Lien grille  : degré A → B · codes RS−/RS~ · conduite « fiche incomplète /
+                   données globales fiables »
+    Statut       : en construction
+    Prérequis de : N2-20 · N2-21
+
+  N1-15 (OBS) · Evaluer de façon chiffrée l'efficacité d'une équipe en établissant
+         des rapports entre les données recueillies
+    Dimension    : autre (rôles sociaux — analyse)
+    Lien grille  : degré B · code RS~
+    Statut       : en construction
+    Prérequis de : N2-20
+
+  N1-16 (OBS) · Communiquer les résultats des observations pour aider à la
+         formalisation d'un projet de jeu simple en attaque
+    Dimension    : autre (rôles sociaux — communication)
+    Lien grille  : degré B → C · codes RS~/RS+ · conduite « données différenciées
+                   exploitables »
+    Statut       : en construction
+    Prérequis de : N2-21
+
+  CAPACITÉS NIVEAU 2 — 21 capacités extraites (dont rôles sociaux)
+  ──────────────────────────────────────────────────────────────────
+
+  N2-1 · Identifier son placement en défense comme en attaque
+    Dimension       : tactique — lecture globale du jeu
+    Lien grille     : degré C · code JO-JP + DF+ · conduite « attaque
+                      intentionnelle adaptée + pressing adapté »
+    Prérequis N1    : N1-2 · N1-11
+    Accessible si   : l'élève a stabilisé la transition attaque/défense (N1-2)
+                      et commence à se replacer (N1-12)
+
+  N2-2 · Elaborer un projet d'organisation collective simple lié à l'efficacité
+         offensive et défensive à partir des observations transmises
+    Dimension       : tactique — projet collectif
+    Lien grille     : degré C · codes GE2 + JP · conduite « organisation collective
+                      adaptée au jeu adverse observé »
+    Prérequis N1    : N1-14 · N1-15 · N1-16
+    Accessible si   : les rôles sociaux (RS~ au minimum) sont stabilisés
+
+  N2-3 · Coordonner ses actions avec celles de ses partenaires
+    Dimension       : tactique — coopération
+    Lien grille     : degré C · codes NP+ · JP · conduite « continuité d'actions
+                      variées »
+    Prérequis N1    : N1-7 · N1-10
+    Accessible si   : le démarquage (N1-7) est suffisamment stable
+
+  N2-4 · Gérer son effort pour enchaîner plusieurs matchs de 2 fois 8 à 12 minutes
+    Dimension       : autre (physique)
+    Lien grille     : degré C — condition transversale
+    Prérequis N1    : N1-3
+    Accessible si   : capacité physique de base acquise
+
+  N2-5 (PB) · Choisir par rapport à sa position sur le terrain et en fonction du
+         rapport d'opposition, de réaliser un contrôle orienté pour se déplacer
+         rapidement vers l'avant en conduisant le ballon, se libérer d'un adversaire,
+         enchaîner une frappe ou un duel face au gardien de but pour marquer
+    Dimension       : décisionnelle + technique — action PB variée
+    Lien grille     : degré C · code PB+ · conduite « varie les frappes, décide
+                      tir ou passe selon défenseur »
+    Prérequis N1    : N1-1 · N1-4 · N1-5 · N1-6
+    Accessible si   : N1-4 (décision PB) et N1-5 (coordination) sont en
+                      construction solide
+
+  N2-6 (PB) · Jouer en appui court ou plus long au sol, enchaîner des actions de
+         passe et de déplacement pour donner et recevoir le ballon en mouvement
+    Dimension       : technique + tactique — jeu de combinaison
+    Lien grille     : degré C · codes PB+ + JP · conduite « combinaisons variées »
+    Prérequis N1    : N1-5 · N1-4
+    Accessible si   : N1-5 stabilisé + N1-10 acquis
+
+  N2-7 (NPB) · Enchaîner des actions de placement, de déplacement et de replacement
+    Dimension       : tactique — mobilité sans ballon
+    Lien grille     : degré C · code NP+ · conduite « crée des espaces »
+    Prérequis N1    : N1-7 · N1-8 · N1-10
+    Accessible si   : N1-7 (démarquage) en construction active
+
+  N2-8 (NPB) · S'écarter du PB et s'orienter pour assurer la continuité du jeu
+    Dimension       : tactique — soutien offensif
+    Lien grille     : degré C · code NP+ · conduite « décalage intentionnel »
+    Prérequis N1    : N1-7 · N1-9
+    Accessible si   : N1-9 (rupture d'alignement) amorcé
+
+  N2-9 (NPB) · Solliciter le ballon entre les défenseurs dans le sens du but
+         attaqué (appel profond)
+    Dimension       : tactique — prise d'espace en profondeur
+    Lien grille     : degré C · code NP+ · conduite « décalage intentionnel pour
+                      partenaires »
+    Prérequis N1    : N1-9 · N1-7
+    Accessible si   : lecture de l'espace disponible acquise
+
+  N2-10 (NPB) · Décrocher d'une position dos au but attaqué (appui au porteur de
+         balle)
+    Dimension       : tactique — soutien défensif du NPB
+    Lien grille     : degré C · code NP+
+    Prérequis N1    : N1-9
+    Accessible si   : N1-9 en construction
+
+  N2-11 (DF) · Se placer et se replacer pour se répartir les rôles entre partenaires
+    Dimension       : tactique — organisation défensive collective
+    Lien grille     : degré C · codes DF+ + DO · conduite « pression collective »
+    Prérequis N1    : N1-2 · N1-11 · N1-12
+    Accessible si   : N1-12 (replacement) suffisamment stable
+
+  N2-12 (DF) · Agir sur le PB : le presser, le harceler pour tenter de récupérer
+         le ballon
+    Dimension       : tactique — pressing individuel
+    Lien grille     : degré C · code DF+ · conduite « pressing adapté »
+    Prérequis N1    : N1-12 · N1-13
+    Accessible si   : N1-12 en construction solide
+
+  N2-13 (DF) · Réaliser un recul-frein pour ralentir la progression adverse
+    Dimension       : tactique — frein défensif
+    Lien grille     : degré B → C · codes DF~ → DF+
+    Prérequis N1    : N1-12
+    Accessible si   : N1-12 acquis
+
+  N2-14 (DF) · Orienter le porteur du ballon afin de l'isoler
+    Dimension       : tactique — défense orientée
+    Lien grille     : degré C · code DF+
+    Prérequis N1    : N1-12 · N1-13
+    Accessible si   : N1-13 en construction
+
+  N2-15 (DF) · Dissuader les passes et jaillir pour intercepter le ballon
+    Dimension       : tactique — interception active
+    Lien grille     : degré C · code DF+ · conduite « transitions défense-attaque
+                      rapides »
+    Prérequis N1    : N1-13
+    Accessible si   : N1-13 amorcé
+
+  N2-16 (CO-ARB) · Arbitrer à plusieurs en se répartissant les rôles
+    Dimension       : autre (rôles sociaux — co-arbitrage)
+    Lien grille     : degré C · code RS+ · conduite « arbitre seul »
+    Prérequis N1    : N1-14 · N1-15
+    Accessible si   : RS~ stabilisé
+
+  N2-17 (CO-ARB) · Se déplacer en coordination avec les joueurs et son ou ses
+         co-arbitres
+    Dimension       : autre (rôles sociaux)
+    Lien grille     : degré C · code RS+
+    Prérequis N1    : N1-14
+    Accessible si   : RS~ acquis
+
+  N2-18 (CO-ARB) · Effectuer le geste correspondant à la faute signalée en
+         organisant la réparation
+    Dimension       : autre (rôles sociaux)
+    Lien grille     : degré C · code RS+
+    Prérequis N1    : N1-14 · N1-16
+    Accessible si   : RS~ stabilisé
+
+  N2-19 (CO-ARB) · Connaître le score à tout moment de la rencontre
+    Dimension       : autre (rôles sociaux)
+    Lien grille     : degré C · code RS+
+    Prérequis N1    : N1-15
+    Accessible si   : RS~ en construction
+
+  N2-20 (OBS) · Repérer une situation favorable et son exploitation
+    Dimension       : autre (rôles sociaux — observation fine)
+    Lien grille     : degré C · code RS+ · conduite « données différenciées
+                      exploitables »
+    Prérequis N1    : N1-14 · N1-15
+    Accessible si   : RS~ stabilisé
+
+  N2-21 (OBS) · Rendre compte de l'efficacité des actions de l'équipe et des
+         joueurs observés
+    Dimension       : autre (rôles sociaux — restitution analytique)
+    Lien grille     : degré C · code RS+
+    Prérequis N1    : N1-14 · N1-15 · N1-16
+    Accessible si   : RS~ + capacité d'analyse collective amorcée
+
+  [ENRICHISSEMENT — source externe]
+  Données complémentaires sur les capacités Football collège :
+  Source  : non disponible — aucune source certifiée complémentaire identifiée
+  URL     : non disponible
+  Apport  : néant
+  Statut  : à valider par l'équipe avant intégration
+  [FIN ENRICHISSEMENT]
+
+
+  SECTION 4 — LECTURE DES CONDUITES OBSERVÉES
+  ─────────────────────────────────────────────
+  [MODE 1 — Depuis mémoire de conversation — Sorties P1 / P2 / P3]
+
+  Conduite 1 : Jeu direct et en réaction — balle bottée sans conservation,
+               pas de circulation collective, jeu individuel (C1 degré A)
+    Degré grille associé      : A
+    Code grille associé       : JD — Jeu direct et en réaction
+    Hypothèse explicative     : "Ce comportement traduit le fait que les élèves
+                                 n'ont pas encore construit de lecture de l'espace
+                                 et du rapport de force (N1-1 absente) ; ils
+                                 réagissent au ballon sans projet offensif collectif."
+    Capacité Eduscol associée : N1-1 · S'informer avant d'agir
+    Capacités N2 bloquées     : N2-2 · N2-3 · N2-5 · N2-6 · N2-7 · N2-8
+
+  Conduite 2 : Joueur intermittent et peu collectif — garde trop longtemps le
+               ballon, pertes fréquentes, n'offre pas de solution de passe (C2-A PB)
+    Degré grille associé      : A
+    Code grille associé       : PB− — Joueur intermittent et peu collectif
+    Hypothèse explicative     : "Ce comportement traduit le fait que le porteur
+                                 de balle n'a pas construit la décision d'action
+                                 adaptée au contexte (N1-4) ; il joue selon sa
+                                 logique individuelle faute de repères tactiques."
+    Capacité Eduscol associée : N1-4 · Identifier sa position / décider l'action PB
+    Capacités N2 bloquées     : N2-5 · N2-6
+
+  Conduite 3 : Pas de démarquage — reste statique sans ballon (C2-A NPB)
+    Degré grille associé      : A
+    Code grille associé       : NP− — Joueur peu collectif
+    Hypothèse explicative     : "Ce comportement traduit le fait que l'élève non
+                                 porteur ne comprend pas encore son rôle dans la
+                                 continuité offensive (N1-7 absente) ; l'absence
+                                 de lecture des espaces libres l'immobilise."
+    Capacité Eduscol associée : N1-7 · S'écarter et se démarquer à distance de passe
+    Capacités N2 bloquées     : N2-7 · N2-8 · N2-9 · N2-10
+
+  Conduite 4 : Ne se replace pas — laisse progresser l'adversaire (C2-A DF)
+    Degré grille associé      : A
+    Code grille associé       : DF− — Joueur intermittent
+    Hypothèse explicative     : "Ce comportement traduit le fait que l'élève ne
+                                 gère pas encore la transition attaque/défense
+                                 (N1-2 instable) et ne possède pas les repères
+                                 de replacement défensif (N1-12 absente)."
+    Capacité Eduscol associée : N1-2 · Se reconnaître attaquant ou défenseur
+                                 N1-12 · Se placer entre son but et le PB
+    Capacités N2 bloquées     : N2-11 · N2-12 · N2-13
+
+  Conduite 5 : Pas de concertation collective en temps mort — GE0 (C1 volet GE)
+    Degré grille associé      : A
+    Code grille associé       : GE0 — Pas de concertation
+    Hypothèse explicative     : "Ce comportement traduit le fait que les élèves
+                                 n'ont pas encore construit de projet collectif
+                                 explicite (N1-16 absente) ; les temps morts
+                                 ne sont pas utilisés comme moments de régulation."
+    Capacité Eduscol associée : N1-16 · Communiquer les résultats des observations
+    Capacités N2 bloquées     : N2-2
+
+  Conduite 6 : Rôles insuffisamment assurés — hésite à arbitrer, fiche vide (C3-A)
+    Degré grille associé      : A
+    Code grille associé       : RS− — Rôles insuffisamment assurés
+    Hypothèse explicative     : "Ce comportement traduit le fait que les élèves
+                                 n'ont pas encore intégré les exigences des rôles
+                                 sociaux (N1-14 absente) ; l'observation et
+                                 l'arbitrage ne sont pas perçus comme apprentissages
+                                 à part entière."
+    Capacité Eduscol associée : N1-14 · Relever des résultats d'actions fiables
+    Capacités N2 bloquées     : N2-16 · N2-17 · N2-18 · N2-20 · N2-21
+
+  SYNTHÈSE DES LACUNES DOMINANTES
+  ─────────────────────────────────
+  Lacune principale         : N1-1 · S'informer avant d'agir (lecture du jeu
+                              avant l'action) — capacité-mère qui conditionne
+                              l'ensemble des choix tactiques individuels et
+                              collectifs
+  Degrés concernés          : A — les deux (A et B partiellement)
+  Codes dominants           : PB− · NP− · JD · DI · GE0 · RS−
+                              (conduite A dominante sur 6 volets sur 7)
+  Capacités cibles bloquées : 12 sur 21 (N2-2 · N2-3 · N2-5 · N2-6 · N2-7
+                               N2-8 · N2-9 · N2-10 · N2-11 · N2-16 · N2-20
+                               N2-21 — toutes dépendantes de N1-1 ou N1-7
+                               ou N1-4 ou N1-14 non acquises)
+  Conclusion                : L'objet d'ancrage prioritaire du cycle est la
+                              construction de la lecture du jeu en tant que PB
+                              (N1-1 + N1-4) et la mise en mouvement du NPB
+                              (N1-7) — ces deux lacunes verrouillent la majorité
+                              des accès au degré C (N2).
+
+  [ENRICHISSEMENT — source externe]
+  Données sur cette lacune en Football dans la littérature :
+  Source  : non disponible — aucune source certifiée identifiable sur la lacune
+            spécifique de lecture du jeu en football scolaire collège
+  URL     : non disponible
+  Apport  : néant
+  Statut  : à valider par l'équipe avant intégration
+  [FIN ENRICHISSEMENT]
+
+
+  SECTION 5 — BILAN D'ENRICHISSEMENT
+  ─────────────────────────────────────
+  Compléments proposés      : 3 blocs MODE 2 (Section 2 · Section 3 · Section 4)
+  Compléments à valider     : 0 (aucun enrichissement externe trouvé — balises vides)
+  URLs non vérifiables      : 0
+  Recommandation            : Aucune URL externe à vérifier dans ce fichier.
+                              Les 3 blocs MODE 2 contiennent des balises vides.
+                              L'équipe peut les supprimer directement avant
+                              soumission au formateur.
+                              Si l'équipe dispose de références académiques sur
+                              l'enseignement du football scolaire au collège,
+                              les intégrer manuellement dans les balises vides
+                              avant de les supprimer.
+
+
+  SECTION 6 — MATIÈRE PRÉPARÉE POUR LE PROMPT 1bis-A
+  ─────────────────────────────────────────────────────
+  Ce fichier est prêt à être joint au prompt 1bis-A.
+  Il contient :
+    → Correspondance Eduscol ←→ Grille établie (Section 2)
+       N1 ←→ Degrés A et B · N2 ←→ Degré C (cible du cycle)
+    → Capacités par niveau numérotées et analysées (Section 3)
+       16 capacités N1 + 21 capacités N2 extraites verbatim du PDF pages 39-40
+    → Conduites lues · lacunes identifiées (Section 4)
+       6 conduites observées · hypothèses formulées · capacités bloquées listées
+    → Lacune dominante signalée (Section 4)
+       N1-1 (lecture du jeu) + N1-7 (démarquage NPB) = objet d'ancrage prioritaire
+    → Enrichissements à valider (Section 5)
+       3 balises vides — aucun enrichissement externe disponible
+  Le prompt 1bis-A construira à partir de cette matière :
+    → Le graphe de dépendances (N1 → N2)
+    → Les axes prioritaires du cycle
+    → Le point de décision enseignant
+
+  ══════════════════════════════════════════════════════════════
+  FIN — ressources_Football_EN-FOO.txt
+  À valider par le formateur · À joindre au prompt 1bis-A
+  Sources PDF lues : pages 39-40 collège (Football N1 et N2)
+                     lycée : N/A (niveau de contenu 2)
+  Source données TD1 : mémoire de conversation
+                       Sorties P1 · P2 · P2-BIS · P3
+  ══════════════════════════════════════════════════════════════
